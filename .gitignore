@@ -1,3 +1,8 @@
-./image.png
-./corner_detection_andline.png
-./modified.png
+corner_detection_andline.png
+image.png
+modified_image.png
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
