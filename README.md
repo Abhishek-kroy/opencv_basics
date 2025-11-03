@@ -21,8 +21,7 @@ pip install opencv-python numpy
 ### basic1.py
 Loads an image (`image.png`), resizes it to half the original size, rotates it 90 degrees clockwise, saves the modified image as `modified_image.jpeg`, and displays it in a window.
 
-<img width="529" height="260" alt="image" src="https://github.com/user-attachments/assets/d962baf6-ce5f-4966-afc9-2f0413bbfa66" />
-
+<img width="529" height="260" alt="Screenshot 2025-11-03 195707" src="https://github.com/user-attachments/assets/3c96edff-af2b-4989-9ee0-e97e03e0848a" />
 
 **Usage:**
 ```bash
@@ -33,7 +32,7 @@ python basic1.py
 ### basic2.py
 Loads an image (`image.png`) and modifies the first 100 rows by setting random RGB values for each pixel, then displays the modified image.
 
-<img width="519" height="357" alt="image" src="https://github.com/user-attachments/assets/24645a11-ee2d-47cd-bcf2-9cb5da063e50" />
+<img width="519" height="357" alt="Screenshot 2025-11-03 195739" src="https://github.com/user-attachments/assets/b4ee372a-0124-4625-97f8-b50917cc18b1" />
 
 
 **Usage:**
@@ -45,7 +44,7 @@ python basic2.py
 ### basic3.py
 Captures video from the default webcam (index 0) and creates a composite image by placing rotated smaller versions of the frame in different quadrants, then displays the result in real-time.
 
-<img width="716" height="500" alt="image" src="https://github.com/user-attachments/assets/ccbb29bd-5e9d-4225-8a11-2aa3a78fbe09" />
+<img width="716" height="500" alt="Screenshot 2025-11-03 195812" src="https://github.com/user-attachments/assets/7e2c69fc-2ad9-4c61-8567-8ea235bfd03b" />
 
 
 **Usage:**
@@ -57,8 +56,7 @@ python basic3.py
 ### basic4.py
 Captures video from the default webcam and draws various shapes (lines, rectangle, circle) and text on each frame, displaying the annotated video in real-time.
 
-<img width="713" height="517" alt="image" src="https://github.com/user-attachments/assets/51c0b417-8313-4114-b434-808df8d39333" />
-
+<img width="713" height="517" alt="Screenshot 2025-11-03 195843" src="https://github.com/user-attachments/assets/fd2e1b48-874b-4577-917e-bbeef290eaea" />
 
 **Usage:**
 ```bash
@@ -69,8 +67,7 @@ python basic4.py
 ### basic5.py
 Captures video from the default webcam, converts frames to HSV color space, applies a mask to detect blue colors, and displays both the mask and the masked result.
 
-<img width="548" height="612" alt="image" src="https://github.com/user-attachments/assets/100d18af-0e05-41ce-9f42-8c302e21d312" />
-
+<img width="548" height="612" alt="Screenshot 2025-11-03 195905" src="https://github.com/user-attachments/assets/b3f26656-8508-457c-9a08-e7639c69d415" />
 
 **Usage:**
 ```bash
@@ -81,8 +78,7 @@ python basic5.py
 ### basic6.py
 Loads an image (`image.png`), resizes it to half the size, detects up to 10 corners using the Shi-Tomasi corner detection algorithm, draws circles on the detected corners, connects them with random colored lines, saves the result as `corner_detection_andline.png`, and displays it.
 
-<img width="618" height="536" alt="image" src="https://github.com/user-attachments/assets/b4850f20-fc5d-4d22-a702-d322b24a23e8" />
-
+<img width="618" height="536" alt="Screenshot 2025-11-03 195919" src="https://github.com/user-attachments/assets/5607f4fd-fbbb-4287-be51-4f5bdee68817" />
 
 **Usage:**
 ```bash
